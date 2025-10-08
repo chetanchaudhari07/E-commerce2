@@ -92,9 +92,7 @@ src/
 
 - Manages products and cart state.
 
-## Screenshots
 
-*(Optional: Add screenshots of your Home, Product Details, and Cart pages here.)*
 
 ## License
 
